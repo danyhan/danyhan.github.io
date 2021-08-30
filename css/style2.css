@@ -40,10 +40,10 @@ article::after {
   color: #0068FF;
   font-size: 44px;
 } */
-hr {border-bottom: 3px solid #0068FF;}
+hr {border-bottom: 3px solid #B4FFFD;}
 
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 18px; letter-spacing: .15em;}
-.meta a:hover {color: #0068FF;}
+.meta a:hover {color: #B4FFFD;}
 
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
